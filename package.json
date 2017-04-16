@@ -1,0 +1,15 @@
+{
+  "name": "async-await-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "async-await.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "asyncawait": "1.0.6",
+    "asyncwait": "1.0.2"
+  }
+}
